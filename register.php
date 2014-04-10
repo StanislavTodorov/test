@@ -6,7 +6,7 @@
   <table widght="100%" border="5" cellspacing="0">
     <tr>
       <td>
-	    Име:
+	    Именце:
       </td>	
       <td>
 	    <input type="text" name="ime">
